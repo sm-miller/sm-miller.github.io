@@ -10,28 +10,28 @@ redirect_from:
 
 ## Working Papers
 
-[The Effect of Medicaid on Crime: Evidence from the Oregon Health Insurance Experiment (2024)](/assets/OHIE_Crime.pdf) 
+[The Effect of Medicaid on Crime: Evidence from the Oregon Health Insurance Experiment](/assets/OHIE_Crime.pdf) 
 : *with Amy Finkelstein and Katherine Baicker,* NBER Working Paper 33244.
 
-[The Causal Effects of Income on Political Attitudes and Behavior: A Randomized Field Experiment (2024)](https://www.nber.org/papers/w33214)
+[The Causal Effects of Income on Political Attitudes and Behavior: A Randomized Field Experiment](https://www.nber.org/papers/w33214)
 : *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* NBER Working Paper
 
-[The Impact of Unconditional Cash Transfers on Consumption and Household Balance Sheets: Experimental Evidence from Two US States (2024)](https://www.nber.org/papers/w32784)
+[The Impact of Unconditional Cash Transfers on Consumption and Household Balance Sheets: Experimental Evidence from Two US States](https://www.nber.org/papers/w32784)
 : *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* NBER Working Paper
 
-[Does Income Affect Health? Evidence from a Randomized Controlled Trial of a Guaranteed Income (2024)](/assets/ORUS_Health.pdf)
+[Does Income Affect Health? Evidence from a Randomized Controlled Trial of a Guaranteed Income](/assets/ORUS_Health.pdf)
 : *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* NBER Working Paper
 
-[The Employment Effects of a Guaranteed Income: Experimental Evidence from Two U.S. States (2024)](/assets/ORUS_Employment.pdf)
+[The Employment Effects of a Guaranteed Income: Experimental Evidence from Two U.S. States](/assets/ORUS_Employment.pdf)
 : *with Eva Vivalt, Elizabeth Rhodes, Alex Bartik, David Broockman, and Patrick Krause,* NBER Working Paper
 
-[The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income (2023)](/assets/Hawekinsetal_SSI.pdf)
+[The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income](/assets/Hawekinsetal_SSI.pdf)
 : *with Amelia Hawkins, Christopher Hollrah, Laura R.Wherry, Mitchell Wong and Gloria Aldana,* conditionally accepted, *American Economic Review*, NBER Working Paper
 
-[Maternal and Infant Health Inequality: New Evidence from Linked Administrative Data (2022)](https://www.nber.org/papers/w30693)
+[Maternal and Infant Health Inequality: New Evidence from Linked Administrative Data](https://www.nber.org/papers/w30693)
 : *with Kate Kennedy-Moulton, Petra Persson, Maya Rossin-Slater, Laura R. Wherry and Gloria Aldana,* revise and resubmit, *Review of Economics and Statistics*
 
-[Covering Undocumented Immigrants: The Effects of A Large-Scale Prenatal Care Intervention (2022)](/assets/MillerWherryUndocumented.pdf)
+[Covering Undocumented Immigrants: The Effects of A Large-Scale Prenatal Care Intervention](/assets/MillerWherryUndocumented.pdf)
 : *with Laura R. Wherry,* revise and resubmit, *AEJ: Economic Policy*
 
 [Does Increasing Access to Formal Credit Reduce Payday Borrowing? (2020)](/assets/MillerSoo_Bankruptcy.pdf)
@@ -40,19 +40,19 @@ redirect_from:
 
 ## Publications
 
-[The Impact of Provider Payments on Health Care Utilization: Evidence from Medicare and Medicaid (2023)](https://www.nber.org/papers/w29471)
+[The Impact of Provider Payments on Health Care Utilization: Evidence from Medicare and Medicaid](https://www.nber.org/papers/w29471)
 : *with Colleen Carey and Marika Cabral,* forthcoming, AEJ: Economic Policy
 
-[Hospital Facility Prices Declined As A Result Of Oregon’s Hospital Payment Cap (2024)](https://www.healthaffairs.org/doi/10.1377/hlthaff.2023.01021)
-: *with Roslyn C. Murray (lead author), Zach Y. Brown, Edward C. Norton, and Andrew M. Ryan,* Health Affairs, 43(3)
+[Hospital Facility Prices Declined As A Result Of Oregon’s Hospital Payment Cap](https://www.healthaffairs.org/doi/10.1377/hlthaff.2023.01021)
+: *with Roslyn C. Murray (lead author), Zach Y. Brown, Edward C. Norton, and Andrew M. Ryan,* 2024, Health Affairs, 43(3)
 
-[Health Insurance Coverage And Access To Care Among LGBT Adults, 2013–19 (2023)](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2022.01493)
-: *with Andrew Bolibol, Thomas Buchmueller, and Benjamin Lewis,* Health Affairs, 42(6)
+[Health Insurance Coverage And Access To Care Among LGBT Adults, 2013–19](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2022.01493)
+: *with Andrew Bolibol, Thomas Buchmueller, and Benjamin Lewis,* 2023. Health Affairs, 42(6)
 
-[ Difference Does a Diagnosis Make? Evidence from Marginal Patients (2019)](https://www.nber.org/papers/w26363)
+[ Difference Does a Diagnosis Make? Evidence from Marginal Patients](https://www.nber.org/papers/w26363)
 : *with Mattan Alalouf and Laura R. Wherry,* accepted, American Journal of Health Economics
 
-[Multi-generational Impacts of Childhood Access to the Safety Net: Early Life Exposure to Medicaid and the Next Generation's Health (2023)](http://www.nber.org/papers/w23810)
+[Multi-generational Impacts of Childhood Access to the Safety Net: Early Life Exposure to Medicaid and the Next Generation's Health](http://www.nber.org/papers/w23810)
 : *with Chloe East, Marianne Page, and Laura Wherry,* American Economic Review 113(1):98-135.
 
 [The Economic Consequences of Being Denied an Abortion (2023)](https://www.nber.org/papers/w26662)
