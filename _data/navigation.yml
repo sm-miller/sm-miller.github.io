@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "CV"
+    url: /assets/CV_Miller.pdf
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
