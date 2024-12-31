@@ -10,14 +10,29 @@ redirect_from:
 
 ## Working Papers
 
+[The Effect of Medicaid on Crime: Evidence from the Oregon Health Insurance Experiment (2024)](/assets/OHIE_Crime.pdf) 
+: *with Amy Finkelstein and Katherine Baicker,* NBER Working Paper 33244.
+
+[The Causal Effects of Income on Political Attitudes and Behavior: A Randomized Field Experiment (2024)](https://www.nber.org/papers/w33214)
+: *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* NBER Working Paper
+
+[The Impact of Unconditional Cash Transfers on Consumption and Household Balance Sheets: Experimental Evidence from Two US States (2024)](https://www.nber.org/papers/w32784)
+: *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* NBER Working Paper
+
+[Does Income Affect Health? Evidence from a Randomized Controlled Trial of a Guaranteed Income (2024)](/assets/ORUS_Health.pdf)
+: *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* NBER Working Paper
+
+[The Employment Effects of a Guaranteed Income: Experimental Evidence from Two U.S. States (2024)](/assets/ORUS_Employment.pdf)
+: *with Eva Vivalt, Elizabeth Rhodes, Alex Bartik, David Broockman, and Patrick Krause,* NBER Working Paper
+
 [The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income (2023)](/assets/Hawekinsetal_SSI.pdf)
-: *with Amelia Hawkins, Christopher Hollrah, Laura R.Wherry, Mitchell Wong and Gloria Aldana,* revise and resubmit, *American Economic Review*, NBER Working Paper
+: *with Amelia Hawkins, Christopher Hollrah, Laura R.Wherry, Mitchell Wong and Gloria Aldana,* conditionally accepted, *American Economic Review*, NBER Working Paper
 
 [Maternal and Infant Health Inequality: New Evidence from Linked Administrative Data (2022)](https://www.nber.org/papers/w30693)
-: *with Kate Kennedy-Moulton, Petra Persson, Maya Rossin-Slater, Laura R. Wherry and Gloria Aldana,* NBER Working Paper
+: *with Kate Kennedy-Moulton, Petra Persson, Maya Rossin-Slater, Laura R. Wherry and Gloria Aldana,* revise and resubmit, *Review of Economics and Statistics*
 
 [Covering Undocumented Immigrants: The Effects of A Large-Scale Prenatal Care Intervention (2022)](/assets/MillerWherryUndocumented.pdf)
-: *with Laura R. Wherry,* NBER Working Paper
+: *with Laura R. Wherry,* revise and resubmit, *AEJ: Economic Policy*
 
 [Does Increasing Access to Formal Credit Reduce Payday Borrowing? (2020)](/assets/MillerSoo_Bankruptcy.pdf)
 : *with Cindy K. Soo,* NBER Working Paper 27783
