@@ -109,7 +109,3 @@ redirect_from:
 [The Impact of the Massachusetts Health Care Reform on Health Care Use among Children (2012)](http://www.aeaweb.org/articles.php?doi=10.1257/aer.102.3.502) 
 : American Economic Review Papers and Proceedings 102(3): 502-07
 
-## Works in Progress/Misc
-
-[Medicare Advantage Price Indices](/assets/HowDoPricesVary-BKMM-Paper.pdf) [Appendix 1] [Appendix 2]
-
