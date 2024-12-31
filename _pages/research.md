@@ -111,10 +111,5 @@ redirect_from:
 
 ## Works in Progress/Misc
 
-Medicare Advantage Price Indices Appendix 1 Appendix 2
+[Medicare Advantage Price Indices](/assets/HowDoPricesVary-BKMM-Paper.pdf) [Appendix 1] [Appendix 2]
 
-Health at birth and later-life outcomes
-
-Basic Income RCT
-
-Monthly State Trends in Payday and Subprime Lending State/Month Trends Tables
