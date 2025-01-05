@@ -26,7 +26,7 @@ redirect_from:
 : *with Eva Vivalt, Elizabeth Rhodes, Alex Bartik, David Broockman, and Patrick Krause,* NBER Working Paper
 
 [The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income](/assets/Hawekinsetal_SSI.pdf)
-: *with Amelia Hawkins, Christopher Hollrah, Laura R.Wherry, Mitchell Wong and Gloria Aldana,* conditionally accepted, *American Economic Review*, NBER Working Paper
+: *with Amelia Hawkins, Christopher Hollrah, Laura R.Wherry, Mitchell Wong and Gloria Aldana,* conditionally accepted, *American Economic Review*
 
 [Maternal and Infant Health Inequality: New Evidence from Linked Administrative Data](https://www.nber.org/papers/w30693)
 : *with Kate Kennedy-Moulton, Petra Persson, Maya Rossin-Slater, Laura R. Wherry and Gloria Aldana,* revise and resubmit, *Review of Economics and Statistics*
@@ -34,7 +34,7 @@ redirect_from:
 [Covering Undocumented Immigrants: The Effects of A Large-Scale Prenatal Care Intervention](/assets/MillerWherryUndocumented.pdf)
 : *with Laura R. Wherry,* revise and resubmit, *AEJ: Economic Policy*
 
-[Does Increasing Access to Formal Credit Reduce Payday Borrowing? (2020)](/assets/MillerSoo_Bankruptcy.pdf)
+[Does Increasing Access to Formal Credit Reduce Payday Borrowing?](/assets/MillerSoo_Bankruptcy.pdf)
 : *with Cindy K. Soo,* NBER Working Paper 27783
 
 
