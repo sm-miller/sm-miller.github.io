@@ -20,7 +20,7 @@ redirect_from:
 : *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* NBER Working Paper
 
 [Does Income Affect Health? Evidence from a Randomized Controlled Trial of a Guaranteed Income](/assets/ORUS_Health.pdf)
-: *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* NBER Working Paper
+: *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* revise and resubmit, *American Economic Review*
 
 [The Employment Effects of a Guaranteed Income: Experimental Evidence from Two U.S. States](/assets/ORUS_Employment.pdf)
 : *with Eva Vivalt, Elizabeth Rhodes, Alex Bartik, David Broockman, and Patrick Krause,* NBER Working Paper
