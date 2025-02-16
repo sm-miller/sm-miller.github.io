@@ -23,7 +23,7 @@ redirect_from:
 : *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* revise and resubmit, *American Economic Review*
 
 [The Employment Effects of a Guaranteed Income: Experimental Evidence from Two U.S. States](/assets/ORUS_Employment.pdf)
-: *with Eva Vivalt, Elizabeth Rhodes, Alex Bartik, David Broockman, and Patrick Krause,* NBER Working Paper
+: *with Eva Vivalt, Elizabeth Rhodes, Alex Bartik, David Broockman, and Patrick Krause,* NBER Working Paper, revise and resubmit, *Quarterly Journal of Economics*
 
 [The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income](/assets/Hawekinsetal_SSI.pdf)
 : *with Amelia Hawkins, Christopher Hollrah, Laura R.Wherry, Mitchell Wong and Gloria Aldana,* conditionally accepted, *American Economic Review*
