@@ -28,8 +28,6 @@ redirect_from:
 [The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income](/assets/Hawkinsetal_SSI.pdf)
 : *with Amelia Hawkins, Christopher Hollrah, Laura R.Wherry, Mitchell Wong and Gloria Aldana,* conditionally accepted, *American Economic Review*
 
-[Maternal and Infant Health Inequality: New Evidence from Linked Administrative Data](https://www.nber.org/papers/w30693)
-: *with Kate Kennedy-Moulton, Petra Persson, Maya Rossin-Slater, Laura R. Wherry and Gloria Aldana,* revise and resubmit, *Review of Economics and Statistics*
 
 [Covering Undocumented Immigrants: The Effects of A Large-Scale Prenatal Care Intervention](/assets/MillerWherryUndocumented.pdf)
 : *with Laura R. Wherry,* revise and resubmit, *AEJ: Economic Policy*
@@ -39,6 +37,9 @@ redirect_from:
 
 
 ## Publications
+
+[Maternal and Infant Health Inequality: New Evidence from Linked Administrative Data](https://www.nber.org/papers/w30693)
+: *with Kate Kennedy-Moulton, Petra Persson, Maya Rossin-Slater, Laura R. Wherry and Gloria Aldana,* accepted, *Review of Economics and Statistics*
 
 [The Impact of Provider Payments on Health Care Utilization: Evidence from Medicare and Medicaid](https://www.nber.org/papers/w29471)
 : *with Colleen Carey and Marika Cabral,* forthcoming, AEJ: Economic Policy
