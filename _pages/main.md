@@ -35,5 +35,5 @@ author_profile: true
 [Covering Undocumented Immigrants: The Effects of A Large-Scale Prenatal Care Intervention](/assets/MillerWherryUndocumented.pdf)
 : *with Laura R. Wherry,* revise and resubmit, *AEJ: Economic Policy*
 : <details><summary><ins>Abstract</ins></summary> Undocumented immigrants are ineligible for public insurance coverage for prenatal care in most states, despite their children representing a large fraction of births and having U.S. citizenship. In this paper, we examine a policy that expanded Medicaid pregnancy coverage to undocumented immigrants. Using a novel dataset that links California birth records to Census surveys, we identify siblings born to immigrant mothers before and after the policy. Implementing a mothers' fixed effects design, we find that the policy increased coverage for and use of prenatal care among pregnant immigrant women, and increased average gestation length and birth weight among their children.</details>
-
+ 
 [more...](/research/)
