@@ -35,7 +35,7 @@ redirect_from:
 ## Publications
 
 [The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income](/assets/Hawkinsetal_SSI.pdf)
-: *with Amelia Hawkins, Christopher Hollrah, Laura R.Wherry, Mitchell Wong and Gloria Aldana,* accepted, *American Economic Review*
+: *with Amelia Hawkins, Christopher Hollrah, Laura R. Wherry, Mitchell Wong and Gloria Aldana,* accepted, *American Economic Review*
 
 [Maternal and Infant Health Inequality: New Evidence from Linked Administrative Data](https://www.nber.org/papers/w30693)
 : *with Kate Kennedy-Moulton, Petra Persson, Maya Rossin-Slater, Laura R. Wherry and Gloria Aldana,* accepted, *Review of Economics and Statistics*
