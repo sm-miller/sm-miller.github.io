@@ -41,7 +41,7 @@ redirect_from:
 : *with Kate Kennedy-Moulton, Petra Persson, Maya Rossin-Slater, Laura R. Wherry and Gloria Aldana,* accepted, *Review of Economics and Statistics*
 
 [The Impact of Provider Payments on Health Care Utilization: Evidence from Medicare and Medicaid](https://www.nber.org/papers/w29471)
-: *with Colleen Carey and Marika Cabral,* forthcoming, AEJ: Economic Policy
+: *with Colleen Carey and Marika Cabral,* AEJ: Economic Policy, 17(1): 106-143 (2025).
 
 [Hospital Facility Prices Declined As A Result Of Oregon’s Hospital Payment Cap](https://www.healthaffairs.org/doi/10.1377/hlthaff.2023.01021)
 : *with Roslyn C. Murray (lead author), Zach Y. Brown, Edward C. Norton, and Andrew M. Ryan,* Health Affairs, 43(3) (2024).
@@ -50,7 +50,7 @@ redirect_from:
 : *with Andrew Bolibol, Thomas Buchmueller, and Benjamin Lewis,* Health Affairs, 42(6) (2023).
 
 [ Difference Does a Diagnosis Make? Evidence from Marginal Patients](https://www.nber.org/papers/w26363)
-: *with Mattan Alalouf and Laura R. Wherry,* accepted, American Journal of Health Economics.
+: *with Mattan Alalouf and Laura R. Wherry,* American Journal of Health Economics, 10(2) (2024).
 
 [Multi-generational Impacts of Childhood Access to the Safety Net: Early Life Exposure to Medicaid and the Next Generation's Health](http://www.nber.org/papers/w23810)
 : *with Chloe East, Marianne Page, and Laura Wherry,* American Economic Review 113(1):98-135 (2023).
