@@ -25,10 +25,6 @@ redirect_from:
 [The Employment Effects of a Guaranteed Income: Experimental Evidence from Two U.S. States](/assets/ORUS_Employment.pdf)
 : *with Eva Vivalt, Elizabeth Rhodes, Alex Bartik, David Broockman, and Patrick Krause,* NBER Working Paper, revise and resubmit, *Quarterly Journal of Economics*
 
-[The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income](/assets/Hawkinsetal_SSI.pdf)
-: *with Amelia Hawkins, Christopher Hollrah, Laura R.Wherry, Mitchell Wong and Gloria Aldana,* conditionally accepted, *American Economic Review*
-
-
 [Covering Undocumented Immigrants: The Effects of A Large-Scale Prenatal Care Intervention](/assets/MillerWherryUndocumented.pdf)
 : *with Laura R. Wherry,* revise and resubmit, *AEJ: Economic Policy*
 
@@ -37,6 +33,9 @@ redirect_from:
 
 
 ## Publications
+
+[The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income](/assets/Hawkinsetal_SSI.pdf)
+: *with Amelia Hawkins, Christopher Hollrah, Laura R.Wherry, Mitchell Wong and Gloria Aldana,* accepted, *American Economic Review*
 
 [Maternal and Infant Health Inequality: New Evidence from Linked Administrative Data](https://www.nber.org/papers/w30693)
 : *with Kate Kennedy-Moulton, Petra Persson, Maya Rossin-Slater, Laura R. Wherry and Gloria Aldana,* accepted, *Review of Economics and Statistics*
