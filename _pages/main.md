@@ -9,7 +9,7 @@ author_profile: true
 ## New Research
 
 [The Effect of Medicaid on Crime: Evidence from the Oregon Health Insurance Experiment](/assets/OHIE_Crime.pdf)
-: *with Amy Finkelstein and Katherine Baicker,* NBER Working Paper, conditionally accepted, *Review of Economics and Statistics*
+: *with Amy Finkelstein and Katherine Baicker,* NBER Working Paper, accepted, *Review of Economics and Statistics*
 : <details><summary><ins>Abstract</ins></summary> Those involved with the criminal justice system have disproportionately high rates of mental illness and substance-use disorders, prompting speculation that health insurance, by improving treatment of these conditions, could reduce crime. Using the 2008 Oregon Health Insurance Experiment, which randomly made some low-income adults eligible to apply for Medicaid, we find no statistically significant impact of Medicaid coverage on criminal charges or convictions. These null effects persist for high-risk subgroups, such as those with prior criminal cases and convictions or mental health conditions. In the full sample, our confidence intervals can rule out most quasi-experimental estimates of Medicaid's crime-reducing impact. </details>
 
 [The Causal Effects of Income on Political Attitudes and Behavior: A Randomized Field Experiment](https://www.nber.org/papers/w32784)
