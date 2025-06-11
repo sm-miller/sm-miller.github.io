@@ -10,9 +10,6 @@ redirect_from:
 
 ## Working Papers
 
-[The Effect of Medicaid on Crime: Evidence from the Oregon Health Insurance Experiment](/assets/OHIE_Crime.pdf) 
-: *with Amy Finkelstein and Katherine Baicker,* NBER Working Paper 33244, conditionally accepted, *Review of Economics and Statistics*.
-
 [The Causal Effects of Income on Political Attitudes and Behavior: A Randomized Field Experiment](https://www.nber.org/papers/w33214)
 : *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* NBER Working Paper
 
@@ -33,6 +30,9 @@ redirect_from:
 
 
 ## Publications
+
+[The Effect of Medicaid on Crime: Evidence from the Oregon Health Insurance Experiment](/assets/OHIE_Crime.pdf) 
+: *with Amy Finkelstein and Katherine Baicker,* NBER Working Paper 33244, accepted, *Review of Economics and Statistics*.
 
 [The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income](/assets/Hawkinsetal_SSI.pdf)
 : *with Amelia Hawkins, Christopher Hollrah, Laura R. Wherry, Mitchell Wong and Gloria Aldana,* accepted, *American Economic Review*
