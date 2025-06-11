@@ -8,7 +8,7 @@ author_profile: true
 
 ## New Research
 
-[The Health and Labor Market Impacts of Reducing Cesarean Section Deliveries](/assets/CMQCC.pdf)
+[The Labor Market and Health Impacts of Reducing Cesarean Section Deliveries](/assets/CMQCC.pdf)
 : *with Petra Persson, Maya Rossin-Slater, and Laura R. Wherry,* 
 : <details><summary><ins>Abstract</ins></summary> One in three births in the United States is delivered by cesarean section (c-section). This paper studies the labor market and health effects of c-sections, using newly linked administrative data that combines the universe of California birth records with mothers' quarterly earnings. We analyze the impact of an intervention that reduced c-section rates among low-risk first-time births, and show that mothers exposed to the intervention are more likely to be employed in the quarter following birth, and more likely to return to their pre-birth employer. These impacts attenuate over time---suggesting that a c-section primarily delays return to the labor market following childbirth---but attachment to the pre-birth employer remains higher five quarters post-birth. Further, among mothers who have another child, we find that exposure to the intervention at the first birth leads to a lower likelihood of c-section and preterm delivery at the second one, implying that both the economic and health benefits of reduced c-sections may compound with birth order. </details>
 
