@@ -23,7 +23,7 @@ redirect_from:
 : *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* NBER Working Paper
 
 [Does Income Affect Health? Evidence from a Randomized Controlled Trial of a Guaranteed Income](/assets/ORUS_Health.pdf)
-: *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* revise and resubmit, *American Economic Review*
+: *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* conditionally accepted, *American Economic Review*
 
 [Covering Undocumented Immigrants: The Effects of A Large-Scale Prenatal Care Intervention](/assets/MillerWherryUndocumented.pdf)
 : *with Laura R. Wherry,* revise and resubmit, *AEJ: Economic Policy*
