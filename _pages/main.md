@@ -9,7 +9,7 @@ author_profile: true
 ## New Research
 
 
-[What Have We Learned from Randomized Controlled Trials of Guaranteed Income?]()
+[What Have We Learned from Randomized Controlled Trials of Guaranteed Income?](https://sm-miller.github.io/)
 : *with Eva Vivalt, Andrew Goodman-Bacon, Elizabeth Rhodes, and Alex Bartik,* revise and resubmit, *Journal of Economic Literature* 
 : <details><summary><ins>Abstract</ins></summary> Since 2018, localities across the U.S. have conducted more than one hundred studies of the effect of regular income payments on lower-income households. We conduct a Bayesian meta-analysis of 28 randomized controlled trials that reported effect estimates on employment, mental distress, food insecurity, and the ability to handle unexpected expenses. These studies collectively enrolled 25,428 participants, of which 10,302 were randomly assigned to receive regular income payments. The typical study paid \$568 per month, usually for one year; an annual amount of at most half the poverty level, but representing about 39\% of the participants average baseline household income. Posterior estimates of the average effect of these interventions on employment and mental distress are small and their credible intervals exclude zero. Pooled estimates suggest that basic income reduces food insecurity and raises self-assess ability to cover a \$400 expense. Analyses that focus only on studies with low differential attrition find null effects on all outcomes.  </details>
 
