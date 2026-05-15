@@ -10,6 +10,9 @@ redirect_from:
 
 ## Working Papers
 
+[What Have We Learned from Randomized Controlled Trials of Guaranteed Income?](https://sm-miller.github.io/)
+: *with Eva Vivalt, Andrew Goodman-Bacon, Elizabeth Rhodes, and Alex Bartik,* revise and resubmit, *Journal of Economic Literature* 
+
 [The Impact of Unconditional Cash Transfers on Parenting and Children](/assets/ORUS_Children.pdf)
 : *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* NBER Working Paper 
 
