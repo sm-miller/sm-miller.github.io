@@ -91,7 +91,7 @@ redirect_from:
 [The Impact of Insurance Expansions on the Already Insured: The Affordable Care Act and Medicare](https://www.aeaweb.org/articles?id=10.1257/app.20190176)
 : *with Colleen Carey and Laura R. Wherry,* AEJ: Applied Economics 12(4):288-318 (2020).
 
-[The Long-Term Effects of Early Life Medicaid Coverage](http://jhr.uwpress.org/content/early/2018/01/25/jhr.54.3.0816.8173R1.abstract) [Appendix](/assets/Appendix2016.pdf)
+[The Long-Term Effects of Early Life Medicaid Coverage](https://jhr.uwpress.org/content/54/3/785) [Appendix](/assets/Appendix2016.pdf)
 : *with Laura Wherry,* Journal of Human Resources 54(3):785-824 (2019).
 
 [Four Years Later: Insurance Coverage and Access to Care Continue to Diverge Between ACA Medicaid Expansion and Non-Expansion States](/assets/Miller_Wherry_Papers_and_Proceedings.pdf)
