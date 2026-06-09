@@ -41,13 +41,13 @@ redirect_from:
 : *with Eva Vivalt, Elizabeth Rhodes, Alex Bartik, David Broockman, and Patrick Krause,* NBER Working Paper, accepted, *Quarterly Journal of Economics*
 
 [The Effect of Medicaid on Crime: Evidence from the Oregon Health Insurance Experiment](/assets/OHIE_Crime.pdf) 
-: *with Amy Finkelstein and Katherine Baicker,* NBER Working Paper 33244, accepted, *Review of Economics and Statistics*.
+: *with Amy Finkelstein and Katherine Baicker,* NBER Working Paper 33244, forthcoming, *Review of Economics and Statistics*.
 
 [The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income](/assets/Hawkinsetal_SSI.pdf)
 : *with Amelia Hawkins, Christopher Hollrah, Laura R. Wherry, Mitchell Wong and Gloria Aldana,* *American Economic Review* 115 (9): 3081–3129 (2025).
 
 [Maternal and Infant Health Inequality: New Evidence from Linked Administrative Data](https://www.nber.org/papers/w30693)
-: *with Kate Kennedy-Moulton, Petra Persson, Maya Rossin-Slater, Laura R. Wherry and Gloria Aldana,* accepted, *Review of Economics and Statistics*
+: *with Kate Kennedy-Moulton, Petra Persson, Maya Rossin-Slater, Laura R. Wherry and Gloria Aldana,* forthcoming, *Review of Economics and Statistics*
 
 [The Impact of Provider Payments on Health Care Utilization: Evidence from Medicare and Medicaid](https://www.nber.org/papers/w29471)
 : *with Colleen Carey and Marika Cabral,* AEJ: Economic Policy, 17(1): 106-143 (2025).
