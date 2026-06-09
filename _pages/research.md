@@ -16,9 +16,6 @@ redirect_from:
 [The Impact of Unconditional Cash Transfers on Parenting and Children](/assets/ORUS_Children.pdf)
 : *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* NBER Working Paper 
 
-[The Labor Market and Health Impact of Reducing Cesarean Section Deliveries](https://www.nber.org/papers/w34556)
-: *with Petra Persson, Maya Rossin-Slater, and Laura Wherry,* conditionally accepted, *Journal of Human Resources*
-
 [The Causal Effects of Income on Political Attitudes and Behavior: A Randomized Field Experiment](https://www.nber.org/papers/w33214)
 : *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* NBER Working Paper
 
@@ -36,6 +33,9 @@ redirect_from:
 
 
 ## Publications
+
+[The Labor Market and Health Impact of Reducing Cesarean Section Deliveries](https://www.nber.org/papers/w34556)
+: *with Petra Persson, Maya Rossin-Slater, and Laura Wherry,* accepted, *Journal of Human Resources*
 
 [The Employment Effects of a Guaranteed Income: Experimental Evidence from Two U.S. States](/assets/ORUS_Employment.pdf)
 : *with Eva Vivalt, Elizabeth Rhodes, Alex Bartik, David Broockman, and Patrick Krause,* NBER Working Paper, accepted, *Quarterly Journal of Economics*
