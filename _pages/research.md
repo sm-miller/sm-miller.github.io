@@ -14,7 +14,7 @@ redirect_from:
 : *with Eva Vivalt, Andrew Goodman-Bacon, Elizabeth Rhodes, and Alex Bartik,* revise and resubmit, *Journal of Economic Literature* 
 
 [The Impact of Unconditional Cash Transfers on Parenting and Children](/assets/ORUS_Children.pdf)
-: *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* NBER Working Paper 
+: *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* reject and resubmit, *American Economic Review* 
 
 [The Causal Effects of Income on Political Attitudes and Behavior: A Randomized Field Experiment](https://www.nber.org/papers/w33214)
 : *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* NBER Working Paper
