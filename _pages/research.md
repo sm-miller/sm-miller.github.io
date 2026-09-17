@@ -14,7 +14,7 @@ redirect_from:
 : *with Eva Vivalt, Andrew Goodman-Bacon, Elizabeth Rhodes, and Alex Bartik,* revise and resubmit, *Journal of Economic Literature* 
 
 [The Impact of Unconditional Cash Transfers on Parenting and Children](/assets/ORUS_Children.pdf)
-: *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* "reject" and resubmit, *American Economic Review* 
+: *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* "reject" and resubmit, *American Economic Review.*  ([public use data](http://data.openresearchlab.org)) 
 
 [The Causal Effects of Income on Political Attitudes and Behavior: A Randomized Field Experiment](https://www.nber.org/papers/w33214)
 : *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* NBER Working Paper
@@ -23,7 +23,7 @@ redirect_from:
 : *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* NBER Working Paper
 
 [Does Income Affect Health? Evidence from a Randomized Controlled Trial of a Guaranteed Income](/assets/ORUS_Health.pdf)
-: *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* conditionally accepted, *American Economic Review* [public use data](http://data.openresearchlab.org) 
+: *with Elizabeth Rhodes, Alex Bartik, David Broockman, Patrick Krause and Eva Vivalt,* conditionally accepted, *American Economic Review.* ([public use data](http://data.openresearchlab.org)) 
 
 [Covering Undocumented Immigrants: The Effects of A Large-Scale Prenatal Care Intervention](/assets/MillerWherryUndocumented.pdf)
 : *with Laura R. Wherry,* revise and resubmit, *AEJ: Economic Policy*
@@ -38,7 +38,7 @@ redirect_from:
 : *with Petra Persson, Maya Rossin-Slater, and Laura Wherry,* accepted, *Journal of Human Resources*
 
 [The Employment Effects of a Guaranteed Income: Experimental Evidence from Two U.S. States](/assets/ORUS_Employment.pdf)
-: *with Eva Vivalt, Elizabeth Rhodes, Alex Bartik, David Broockman, and Patrick Krause,* NBER Working Paper, accepted, *Quarterly Journal of Economics* [public use data](http://data.openresearchlab.org) 
+: *with Eva Vivalt, Elizabeth Rhodes, Alex Bartik, David Broockman, and Patrick Krause,* NBER Working Paper, accepted, *Quarterly Journal of Economics.* ([public use data](http://data.openresearchlab.org))  
 
 [The Effect of Medicaid on Crime: Evidence from the Oregon Health Insurance Experiment](/assets/OHIE_Crime.pdf) 
 : *with Amy Finkelstein and Katherine Baicker,* NBER Working Paper 33244, forthcoming, *Review of Economics and Statistics*.
