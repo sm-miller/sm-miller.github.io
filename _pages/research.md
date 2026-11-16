@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 ## Working Papers
+[Preconception Medicaid and Maternal and Infant Health: Evidence from Linked Administrative Data](https://www.nber.org/papers/w36033)
+: *with Genna Campain, Petra Persson, Maya Rossin-Slater, Laura Wherry and Katlyn N. King* 
 
 [What Have We Learned from Randomized Controlled Trials of Guaranteed Income?](https://sm-miller.github.io/)
 : *with Eva Vivalt, Andrew Goodman-Bacon, Elizabeth Rhodes, and Alex Bartik,* revise and resubmit, *Journal of Economic Literature* 
